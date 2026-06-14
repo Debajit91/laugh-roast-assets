@@ -1,0 +1,49 @@
+[
+  { "file": "Batman.jpg", "keywords": ["dark", "hero", "serious", "justice", "brooding"] },
+
+  { "file": "Change-My-Mind.jpg", "keywords": ["debate", "opinion", "argument", "prove", "discussion"] },
+
+  { "file": "Drake-Hotline-Bling.jpg", "keywords": ["choice", "compare", "vs", "better", "decision"] },
+
+  { "file": "Futurama-Fry.jpg", "keywords": ["confused", "doubt", "think", "uncertain", "wait"] },
+
+  { "file": "Mocking-Spongebob.jpg", "keywords": ["mock", "sarcasm", "funny", "repeat", "insult"] },
+
+  { "file": "One-Does-Not-Simply.jpg", "keywords": ["impossible", "hard", "challenge", "mission", "lotr"] },
+
+  { "file": "Sad-Pablo-Escobar.jpg", "keywords": ["sad", "lonely", "alone", "waiting", "emotional"] },
+
+  { "file": "Success-Kid12.jpg", "keywords": ["win", "success", "achievement", "proud", "victory"] },
+
+  { "file": "Sweating-Thinking.jpg", "keywords": ["stress", "pressure", "confused", "thinking", "tension"] },
+
+  { "file": "This-Is-Fine.jpg", "keywords": ["chaos", "ignore", "burn", "problem", "stress"] },
+
+  { "file": "aub1ye.jpg", "keywords": ["random", "funny", "chaos", "weird", "meme"] },
+
+  { "file": "brain-explosion.jpg", "keywords": ["mindblown", "shock", "crazy", "confusion", "explosion"] },
+
+  { "file": "crazy-sports-man-worried-expression.jpg", "keywords": ["sports", "shock", "panic", "reaction", "stress"] },
+
+  { "file": "crying-cat.jpg", "keywords": ["sad", "cry", "emotional", "tears", "hurt"] },
+
+  { "file": "download.png", "keywords": ["default", "fallback", "random", "basic", "meme"] },
+
+  { "file": "joyful-man-with-dog.jpg", "keywords": ["happy", "joy", "smile", "dog", "fun"] },
+
+  { "file": "medium-shot-funny-man-with-mustache.jpg", "keywords": ["funny", "reaction", "man", "expression", "meme"] },
+
+  { "file": "monkey-man-counting-one_1368-7142.jpg", "keywords": ["counting", "logic", "confused", "thinking", "math"] },
+
+  { "file": "sander-sammy-7rE4GFo0E9A-unsplash.jpg", "keywords": ["nature", "aesthetic", "calm", "background", "scenery"] },
+
+  { "file": "success-kid.jpg", "keywords": ["win", "success", "achievement", "victory", "proud"] },
+
+  { "file": "success-kid1.jpg", "keywords": ["win", "success", "repeat", "victory", "meme"] },
+
+  { "file": "superhero-monkey-man-making-silence-gesture_1368-6627.jpg", "keywords": ["silent", "secret", "stop", "gesture", "serious"] },
+
+  { "file": "surprised-pikachu.jpg", "keywords": ["shock", "surprise", "unexpected", "what", "reaction"] },
+
+  { "file": "wolfgang-hasselmann-_EG_Th77EmQ-unsplash.jpg", "keywords": ["nature", "aesthetic", "calm", "scenery", "background"] }
+]
